@@ -2,7 +2,7 @@
 
 #############################################
 #       ADVANCE BLACKLIST SEARCHER          #
-#       powered by BBS SOC TEAM             #
+#       powered by                          #
 #       serebrum-root1x                     #
 #############################################
 
